@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SportApp</string>
+    <string name="button">НАЧАТЬ</string>
+    <string name="textView">АЛГОРИТМ УСПЕХА</string>
+    <string name="text2">Добро пожаловать в АЛГУС!</string>
+    <string name="text3">Укажите пол:</string>
+    <string name="button_avatar_desc">Аватар пользователя</string>
+    <string name="button_flag_desc">Флаг</string>
+    <string name="button_chat_desc">Чат</string>
+    <string name="button_stat_desc">Статистика</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263677073351",
+    "project_id": "algus-project",
+    "storage_bucket": "algus-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263677073351:android:fc108a15e00fd15520ebe2",
+        "android_client_info": {
+          "package_name": "com.example.sportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263677073351-nkthb0rep2u8jeh8ml1k05jjke3c1eal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVAHwuXnTr0Y78BoZebBj0fEuGVBH1_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263677073351-nkthb0rep2u8jeh8ml1k05jjke3c1eal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
